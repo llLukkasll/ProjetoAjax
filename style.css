@@ -1,0 +1,54 @@
+body{background-color: #A4B2EA;
+    font-family: Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);
+}
+<style>@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');</style>
+
+nav {margin: 50px 10px  ;
+} 
+a{
+    color: black; text-decoration: none;
+}
+    a:visited{ 
+        color: red
+    }
+a:hover { text-decoration: underline; color: blue
+}
+p 
+{text-align: justify;}
+
+header {
+    text-align: center; background-color: #475DB3; 
+    box-shadow: 1px 1px 5px 1px black;
+    border-radius: 1px 1px ;}
+
+h1#secundario{
+    color: rgba(133, 15, 15, 0.747);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;}
+
+    main{text-align: center;}
+
+   
+        
+    
+.desisto{
+    padding: 42px;
+    width: 40%;
+  }
+  
+form{ font-family: Arial, Helvetica, sans-serif; }
+
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+div { padding: 20px;
+    display: inline-block;    
+}
+   
